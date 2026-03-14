@@ -259,5 +259,9 @@ Returns server status, pricing, and network info.
 ---
 
 ## License
+contact details :
+8409701368  kumar priyanshu
+8709280729  nishant kumar 
+9026674956  pushkar shrivastava 
 
 MIT — built with ❤️ using [x402](https://x402.org) by Coinbase
